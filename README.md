@@ -1,5 +1,7 @@
 # DOM EVENTS
 
+![](https://res.cloudinary.com/practicaldev/image/fetch/s--J43C-IwA--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/1zm80qaekzgu8p54w98g.jpg)
+
 ## Lesson Overview
 
 In this lesson, we'll learn all about DOM events and how we can use them. We'll also learn about callback functions and the power we can weild by using them.
@@ -162,8 +164,6 @@ CSS:
 ## Lesson Recap
 
 In this lesson, we learned all about event listeners and handlers and how we can leverage them. We also learned about the all-important callback function and hwo to use it.
-
-![Win](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia3.giphy.com%2Fmedia%2Fl46C4NiW1pQzXmQBq%2Fgiphy.gif&f=1&nofb=1)
 
 ## Resources
 
