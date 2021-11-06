@@ -4,7 +4,7 @@
 
 ## Lesson Overview
 
-In this lesson, we'll learn all about DOM events and how we can use them. We'll also learn about callback functions and the power we can weild by using them.
+In this lesson, we'll learn all about DOM events and how we can use them. We'll also learn about callback functions and the power we can wield by using them.
 
 ## Getting Started
 
