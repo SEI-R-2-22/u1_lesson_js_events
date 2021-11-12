@@ -42,7 +42,7 @@ We need:
 Make a button in the html:
 
 ```html
-<button id="btn">Click me<button></button></button>
+<button id="btn">Click me</button>
 ```
 
 Grab the button in the JS (DOM element):
